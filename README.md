@@ -18,7 +18,7 @@ output.txt : données utilisateur (identifiant, historique, messages textes...)
 Les fichers résultats:
 afinn-out.json (résultat de AFINN-DICTIONARY.PY):
 
-terms.txt: (Résultat 1 de twwet-sentiment.py):
+termes.txt: (Résultat 1 de twwet-sentiment.py):
 Contient tous les termes de AFINN-111 retrouvés dans les messages textes de l'utilisateur dans output.txt 
 
 scores.txt (Résultat 2 de twwet-sentiment.py):
